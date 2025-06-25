@@ -30,6 +30,7 @@
     "pnpm": ">=10.2.1"
   },
   "devDependencies": {
-    "@n8n/typescript-config": "workspace:*"
+    "@n8n/typescript-config": "workspace:*",
+    "turbo": "^1.10.0"
   }
 }
